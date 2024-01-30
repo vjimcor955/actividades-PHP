@@ -7,9 +7,9 @@
   </head>
   <body>
     <h1>Ejercicio 2</h1>
+    <p>Realiza una copia de los cuatro ejercicios de variables e introduce los datos a través de formularios. Utiliza Fichero css externo para dar estilo a los formularios y utiliza tipos de campos correcto (text, number, etc).</p>
     <div class="formulario">
       <h2>Introduce los datos:</h2>
-      <p>Realiza una copia de los cuatro ejercicios de variables e introduce los datos a través de formularios. Utiliza Fichero css externo para dar estilo a los formularios y utiliza tipos de campos correcto (text, number, etc).</p>
       <form method="post">
           <label for="x">Valor de x:</label>
           <input type="number" name="x" required><br>

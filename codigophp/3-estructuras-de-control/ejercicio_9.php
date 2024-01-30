@@ -9,9 +9,9 @@
 
 <body>
   <h1>Ejercicio 9:</h1>
+  <p>Escribe un programa que diga si un número introducido por teclado es o no primo. Un número primo es aquel que sólo es divisible entre él mismo y la unidad.</p>
   <div class="formulario">
     <h2>Introduce los datos:</h2>
-    <p>Escribe un programa que diga si un número introducido por teclado es o no primo. Un número primo es aquel que sólo es divisible entre él mismo y la unidad.</p>
     <form method="post">
       <label for="numero">Numero para saber si es primo:</label>
       <input type="number" name="numero" required><br>

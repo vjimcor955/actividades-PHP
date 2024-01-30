@@ -9,9 +9,9 @@
 
 <body>
   <h1>Ejercicio 4:</h1>
+  <p>Escribe un programa que ordene 3 número introducido por teclado.</p>
   <div class="formulario">
     <h2>Introduce los datos:</h2>
-    <p>Escribe un programa que ordene 3 número introducido por teclado.</p>
     <form method="post">
       <label for="numero_1">Numero 1:</label>
       <input type="number" name="numero_1" required><br>
