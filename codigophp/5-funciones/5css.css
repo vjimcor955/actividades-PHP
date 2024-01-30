@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formulario {
+    width: 450px;
+    margin: 25px;
+    padding: 25px;
+    border: 2px solid black;
+    background-color: cornsilk;
+}
+
+.ejercicios {
+    display: flex;
+}
+
+.resultado {
+    width: 335px;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: aliceblue;
+}
+
+.tabla {
+    text-align: center;
+}
