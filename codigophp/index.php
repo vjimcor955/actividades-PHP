@@ -7,9 +7,6 @@
     <title>Página principal</title>
 </head>
 <body>
-    <a href="phpinfo.php">phpinfo()</a>,
-    <a href="xdebug_info.php">xdebug_info()</a>
-    <br>
     <h1>Ejercicios PHP:</h1>
     <ul>
         <h4>1.- Variables y constantes:</h4>
@@ -51,6 +48,12 @@
     <ul>
         <h4>6.- Arrays</h4>
         <li><a href="6-arrays/ejercicio-1.php">Ejercicio 1</a></li>
+        <li><a href="6-arrays/ejercicio-2.php">Ejercicio 2</a></li>
+        <li><a href="6-arrays/ejercicio-3.php">Ejercicio 3</a></li>
+        <li><a href="6-arrays/ejercicio-4.php">Ejercicio 4</a></li>
+        <li><a href="6-arrays/ejercicio-5.php">Ejercicio 5</a></li>
+        <li><a href="6-arrays/ejercicio-6.php">Ejercicio 6</a></li>
+        <li><a href="6-arrays/ejercicio-7.php">Ejercicio 7</a></li>
     </ul>
 </body>
 </html>
